@@ -60,7 +60,7 @@
                                             </button>
                                         </subviews>
                                     </stackView>
-                                    <stackView opaque="NO" contentMode="scaleToFill" spacing="58" translatesAutoresizingMaskIntoConstraints="NO" id="fwH-NF-pyc">
+                                    <stackView opaque="NO" alpha="0.80000000000000004" contentMode="scaleToFill" spacing="58" translatesAutoresizingMaskIntoConstraints="NO" id="fwH-NF-pyc">
                                         <rect key="frame" x="0.0" y="51" width="350" height="50"/>
                                         <subviews>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gm7-yS-e7g">
