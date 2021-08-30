@@ -3,7 +3,7 @@
 The App can show a current weather in the specified city or in the current location.
 This app is for practice to creating app with networking. Making request, taking response, parse .json files, create data model and update UI with this data.
 
-What I learned when I was creating this app:
+I used these things when I was creating this app:
  - UITextField
  - Protocols and Delegate Design Pattern
  - Learn to work with API 
