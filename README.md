@@ -6,7 +6,7 @@ This app is for practice to creating app with networking. Making request, taking
 I used these things when I was creating this app:
  - UITextField
  - Protocols and Delegate Design Pattern
- - Learn to work with API 
+ - API 
  - Parse JSON
  - work with closures, extentions
  - CoreLocation
